@@ -628,7 +628,7 @@
                             Placement="Bottom"
                             PopupAnimation="Slide">
                             <Border
-                                Background="#FFFFFFFF"
+                                Background="{StaticResource Theme.MainBack1}"
                                 BorderBrush="#FF808080"
                                 BorderThickness="1">
                                 <ScrollViewer MaxHeight="200">
